@@ -1,0 +1,15 @@
+syntax: glob
+
+*.so
+*.pyd*
+*.pyc
+*~
+*temp
+
+\#*\#
+
+docs/_build/*
+
+build/*
+
+modred.egg-info/
